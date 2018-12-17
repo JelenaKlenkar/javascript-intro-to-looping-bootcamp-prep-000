@@ -16,7 +16,7 @@ for (let i=0; i<25; i++){
 
 function whileLoop(number){
   while(number > 0){
-    console.log(-number);
+    console.log(--number);
    
   }
   if (number===0){
