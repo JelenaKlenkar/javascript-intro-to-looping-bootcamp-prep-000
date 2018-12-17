@@ -20,7 +20,7 @@ function whileLoop(number){
    
   }
   if (number===0){
-    return ("done");
+    return ('done');
   }
 }
 
